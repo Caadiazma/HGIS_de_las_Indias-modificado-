@@ -1,0 +1,220 @@
+Caja;REG;Caja_ID;GZ_ID;lat;lon;START_;END_;nota;tipo;Simbolo;Caja superior
+Bocaneme;NGR;RCNGHOBN;5000228;;;1663;1703;;Corregimiento/Local;Subalterna;
+Boza;NGR;RCNGSFBZ;5000058;;;1673;1738;;Corregimiento/Local;Subalterna;
+Caxica;NGR;RCNGSFCX;5000365;;;1667;1681;;Corregimiento/Local;Subalterna;
+Chita;NGR;RCNGSFCT;5000068;;;1667;1739;;Corregimiento/Local;Subalterna;
+Chivata;NGR;RCNGSFCV;5000067;;;1669;1744;;Corregimiento/Local;Subalterna;
+Coyaima;NGR;RCNGSFCY;5000244;;;1667;1749;;Corregimiento/Local;Subalterna;
+Duitama;NGR;RCNGSFDU;5000504;;;1670;1745;;Corregimiento/Local;Subalterna;
+Gameza;NGR;RCNGSFGA;5000467;;;1669;1729;;Corregimiento/Local;Subalterna;
+Guamoco;NGR;RCNGMOGU;5000578;;;1619;1676;;Corregimiento/Local;Subalterna;
+Guatavita;NGR;RCNGSFGU;5000334;;;1668;1752;;Corregimiento/Local;Subalterna;
+Los Llanos;NGR;RCNGSFLL;5000028;;;1664;1748;;Corregimiento/Local;Subalterna;
+Minas de Lajas;NGR;RCNGHOML;5000571;;;1667;1701;;Corregimiento/Local;Subalterna;
+Muzos;NGR;RCNGHOMU;5000045;;;1595;1111;;Corregimiento/Local;Subalterna;
+Neiva y Paeces;NGR;RCNGSFNE;5000010;;;1701;1738;;Corregimiento/Local;Subalterna;
+Opón;NGR;RCNGHOOP;5000066;;;1756;1760;;Corregimiento/Local;Subalterna;
+Paipa;NGR;RCNGSFPA;5000069;;;1667;1748;;Corregimiento/Local;Subalterna;
+Pamplona;NGR;RCNGSFPP;5000016;;;1617;1631;;Corregimiento/Local;Subalterna;
+Panches;NGR;RCNGHOPA;5000230;;;1111;1111;;Corregimiento/Local;Subalterna;
+Pasca;NGR;RCNGSFPA;5000742;;;1669;1745;;Corregimiento/Local;Subalterna;
+Sachica;NGR;RCNGSFSA;5000070;;;1669;1735;;Corregimiento/Local;Subalterna;
+San Gil;NGR;RCNGSFSG;5000042;;;1684;1748;;Corregimiento/Local;Subalterna;
+Servitá;NGR;RCNGSFSE;5000057;;;1709;1750;;Corregimiento/Local;Subalterna;
+Sogamoso;NGR;RCNGSFSO;5000071;;;1671;1749;;Corregimiento/Local;Subalterna;
+Tatama y Chami;NGR;RCNGSFTA;5000194;;;1726;1734;;Corregimiento/Local;Subalterna;
+Tenza;NGR;RCNGSFTE;5000072;;;1671;1749;;Corregimiento/Local;Subalterna;
+Turmequé;NGR;RCNGSFTU;5000073;;;1669;1729;;Corregimiento/Local;Subalterna;
+Ubaque;NGR;RCNGSFUB;5000194;;;1665;1745;;Corregimiento/Local;Subalterna;
+Velez;NGR;RCNGSFVE;5000066;;;1684;1748;;Corregimiento/Local;Subalterna;
+Zaragoza;NGR;RCNGMOZA;5000023;;;1596;1683;;Corregimiento/Local;Subalterna;
+Zipaquira;NGR;RCNGSFZI;5000063;;;1682;1735;;Corregimiento/Local;Subalterna;
+Carabaya;CHA;RCCCCY00;8000041;;;1690;1796;Morales Padrón: 1721, pero hay cuentas desde 1690;Caja real;Principal;
+Carangas;CHA;RCCCCG00;8000281;;;1652;1803;;Caja real;Principal;
+Charcas;CHA;RCCCCT00;8000001;;;1578;1692;;Caja real;Principal;
+Chucuito;CHA;RCCCCH00;8000018;;;1707;1802;;Caja real;Principal;
+Mexico;NES;RCNEMX00;1000001;19,433786;-99,133134;1605;9999;;Tribunal de cuentas;Tribunal;
+Guadalajara;GDJ;RCGDGU00;1000002;20,676143;-103,346998;1559;9999;;Caja real;Principal;
+Chihuahua;GDJ;RCGDCH00;1000003;28,654323;-106,083947;1775;9999;;Caja real;Principal;
+Durango;GDJ;RCGDDU00;1000004;24,02484;-104,66986;1599;9999;;Caja real;Principal;
+Guanajuato;NES;RCNEGJ00;1000005;21,01661;-101,25272;1665;9999;;Caja real;Principal;
+Santa Cruz de la Sierra;CHA;RCCCSC00;8000009;;;1789;1802;;Caja real;Principal;
+Acapulco;NES;RCNEAC00;1000006;16,84865;-99,90849;1590;9999;;Caja real;Principal;
+Concepción;CHL;RCCHCO00;7000002;-36,738907;-72,993604;1111;1111;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Pachuca;NES;RCNEPA00;1000007;20,121599;-98,733139;1667;9999;;Caja real;Principal;
+Michoacán;NES;RCNEMI00;1000008;19,703889;-101,184722;1761;9999;;Caja real;Principal;
+Oaxaca;NES;RCNEOA00;1000014;17,06971;-96,7189;1790;9999;;Caja real;Principal;
+Alamos;GDJ;RCGDSINA;1000202;;;1770;1782;Morales Padrón: 1772?;Caja real;Principal;
+Puebla;NES;RCNEPU00;1000015;19,04259;-98,19804;1787;9999;;Caja real;Principal;
+San Luis Potosí;NES;RCNESL00;1000016;22,15153;-100,97581;1628;9999;;Caja real;Principal;
+Arizpe;GDJ;RCGDAR00;1000017;30,336025;-110,166305;1781;9999;;Caja real;Principal;
+Veracruz;NES;RCNEVE00;1000021;19,193327;-96,137751;1531;9999;;Caja real;Principal;
+Mérida;NES;RCNEME00;1000022;20,966709;-89,623222;1540;9999;;Caja real;Principal;
+Zacatecas;NES;RCNEZA00;1000024;22,7758;-102,57148;1544;9999;;Caja real;Principal;
+Rosario;GDJ;RCGDSINA;1000210;;;1783;1806;;Caja real;Principal;
+Saltillo;GDJ;RCGDSA00;1000042;25,42158;-100,99961;1794;9999;;Caja real;Principal;
+Bolaños;GDJ;RCGDBO00;1000051;21,831101;-103,780998;1752;9999;;Caja real;Principal;
+San Blas;GDJ;RCGDSB00;1000059;21,54114;-105,285294;1774;9999;;Caja real;Principal;
+Acajutla;GUA;RCGUAC00;2000132;13,59439;-89,82776;1111;1111;Morales Padrón: siglo XVII;Caja real;Principal;
+Cartago;GUA;RCGUCA00;2000010;9,86474;-83,92088;1111;1111;Morales Padrón: siglo XVII;Caja real;Principal;
+Chiapa;GUA;RCGUCH00;2000042;;;1540;1543;;Caja real;Principal;
+Chiapa;GUA;RCGUCH00;2000005;;;1544;1549;;Caja real;Principal;
+Zimapan;NES;RCNEZI00;1000117;20,736944;-99,381944;1722;9999;;Caja real;Principal;
+Honduras;GUA;RCGUHOND;2000009;;;1527;1543;Cuentas en el AGI hasta 1679;Caja real;Principal;
+Honduras;GUA;RCGUHOND;2000001;;;1544;1563;Cuentas en el AGI hasta 1679;Caja real;Principal;
+Comayagua;GUA;RCGUHOND;2000006;;;1564;1679;Cuentas en el AGI hasta 1679;Caja real;Principal;
+Granada;GUA;RCGUGR00;2000680;11,92868;-85,96077;1111;1111;Morales Padrón: siglo XVII;Caja real;Principal;
+Cosalá;GDJ;RCGDSINA;1000204;24,4117;-106,68896;1807;9999;;Caja real;Principal;
+León;GUA;RCGULE00;2000007;;;1573;1695;Cuentas en el AGI hasta 1695;Caja real;Principal;
+Nueva Segovia;GUA;RCGUNS00;2000677;13,565761;-86,031868;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+San Pedro Sula;GUA;RCGUSU00;2000246;15,50507;-88,02413;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+Sonsonate;GUA;RCGUSO00;2000131;;;1605;1674;Cuentas en el AGI hasta 1615;Caja real;Principal;
+Tegucigalpa;GUA;RCGUTG00;2000264;;;1111;1662;Hay cuentas para 1662.;Caja real;Principal;
+Campeche;NES;RCNECA00;1000226;19,84433;-90,535698;1716;9999;"Morales Padrón: ""Funcionaba en 1578"".?";Caja real;Principal;
+Sombrerete;GDJ;RCGDSO00;1000240;23,63278;-103,64106;1668;9999;;Caja real;Principal;
+Presidio del Carmen;NES;RCNEPC00;1004862;18,6525;-91,8082;1775;9999;Morales Padrón: 1770?;Caja real;Principal;
+Perote;NES;RCNEPE00;1005098;19,5735;-97,2446;1786;9999;;Caja real;Principal;
+México;NES;RCNEMX00;1000001;;;1521;1604;;Caja real;Principal;
+Guatemala;GUA;RCGUGU00;2000003;14,52979;-90,735481;1529;9999;;Caja real;Principal;
+Chiapas;GUA;RCGUCH00;2000005;16,73695;-92,63753;1801;9999;;Caja real;Principal;
+Santo Domingo;SDO;RCSDSD00;3000001;18,480197;-69,942111;1520;9999;;Caja real;Principal;
+Panuco;NES;RCNEPN00;1000217;22,05695;-98,179413;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+Puerto Principe;SDO;RCSDPU00;3000002;21,385682;-77,914397;1708;9999;;Caja real;Principal;
+Presidio del Carmen;NES;RCNEPC00;1004862;;;1729;1731;;Caja real;Principal;
+San Juan de Puerto Rico;SDO;RCSDSJ00;3000003;18,466146;-66,115804;1510;9999;;Caja real;Principal;
+Puebla;NES;RCNEPU00;1000015;;;1698;1728;;Caja real;Principal;
+La Habana;SDO;RCSDLH00;3000004;23,14111;-82,35143;1638;9999;;Tribunal de cuentas;Tribunal;
+Santiago de Cuba;SDO;RCSDCU00;3000005;20,021799;-75,822197;1529;9999;;Caja real;Principal;
+Tabasco;NES;RCNETB00;1004860;;;1601;1732;Morales Padrón: A partir de 1769?;Caja real;Principal;
+Matanzas;SDO;RCSDMA00;3000011;23,046344;-81,576917;1743;9999;;Caja real;Principal;
+Bayamo;SDO;RCSDBA00;3000013;20,380173;-76,642588;1703;9999;;Caja real;Principal;
+Sancti Spiritus;SDO;RCSDSS00;3000017;21,909565;-79,380693;1704;9999;;Caja real;Principal;
+Veragua;NGR;RCNGVE00;5000013;8,109324;-80,981461;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+San Juan de los Remedios;SDO;RCSDSJ00;3000018;22,495251;-79,545232;1743;9999;;Caja real;Principal;
+Santa Clara;SDO;RCSDVC00;3000019;22,406565;-79,965051;1743;9999;;Caja real;Principal;
+Cailloma;PER;RCPECA00;6000070;;;1631;1779;;Caja real;Principal;
+Castrovirreyna;PER;RCPECA00;6000610;;;1600;1630;Morales Padrón: siglo XVI y XVII;Caja real;Principal;
+Chachapoyas;PER;RCPECH00;6001262;;;1627;1639;;Caja real;Principal;
+Caracas;VEN;RCVECA00;4000001;10,506098;-66,914602;1777;9999;La fecha inicial no se ha confirmado.;Tribunal de cuentas;Tribunal;
+Cumaná;VEN;RCVECU00;4000005;10,46721;-64,176598;1583;9999;;Caja real;Principal;
+Huancavelica;PER;RCPEHU00;6000005;;;1577;1784;;Caja real;Principal;
+Jauja;PER;RCPEJA00;6001133;;;1730;1785;;Caja real;Principal;
+Lima;PER;RCPELI00;6000001;;;1532;1604;;Caja real;Principal;
+Piura y Paita;PER;RCPEPI00;6001391;;;1600;1779;;Caja real;Principal;
+San Juan de Matucana;PER;RCPESA00;6000611;;;1721;1729;;Caja real;Principal;
+Saña;PER;RCPESA00;6001415;;;1722;1761;;Caja real;Principal;
+isla Margarita;VEN;RCVEIM00;4000006;11,0361;-63,867908;1580;9999;;Caja real;Principal;
+Maracaibo;VEN;RCVEMA00;4000007;10,653726;-71,617843;1680;9999;;Caja real;Principal;
+Barinas;VEN;RCVEBA00;4000008;8,631546;-70,233762;1801;9999;;Principal;Principal;
+Santa Fe;NGR;RCNGSF00;5000001;4,59744;-74,07475;1605;9999;;Tribunal de cuentas;Tribunal;
+Jaen;QUI;RCQUJA00;5600004;-5,4164;-78,705447;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+Panamá;NGR;RCNGPA00;5000002;9,006451;-79,485941;1514;9999;;Principal;Principal;
+Loja;QUI;RCQULO00;5600012;-3,996431;-79,201399;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+Puerto Viejo;QUI;RCQUPV00;5600028;;;1622;1636;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Quito;QUI;RCQUQU00;5600001;;;1549;1775;;Caja real;Principal;
+Yaguarzongo;QUI;RCQUYA00;5600148;-4,551427;-79,132375;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+Zamora;QUI;RCQUZA00;5600149;-4,067422;-78,957421;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+Buenos Aires;RPL;RCRPBA00;9000001;;;1634;1767;;Caja real;Principal;
+Antioquia;NGR;RCNGAN00;5000003;6,331783;-75,763637;1595;9999;;Principal;Principal;
+Cartagena;NGR;RCNGCA00;5000004;10,423061;-75,55076;1533;9999;;Principal;Principal;
+Portobelo;NGR;RCNGPO00;5000005;9,553096;-79,65471;1597;9999;;Principal;Principal;
+Jujuy;RPL;RCRPJU00;9000019;;;1630;1782;;Caja real;Principal;
+Zitara;NGR;RCNGZI00;5000006;5,6869;-76,658356;1693;9999;;Principal;Principal;
+Mariquita;NGR;RCNGHOMA;5000009;5,196661;-74,893699;1590;9999;;Subalterna;Subalterna;Honda
+Neiva;NGR;RCNGSFNE;5000010;2,923565;-75,285419;1791;9999;;Subalterna;Subalterna;Santa Fe de Bogota
+Santa Marta;NGR;RCNGSA00;5000011;11,24327;-74,21052;1565;9999;;Principal;Principal;
+Paraguay;RPL;RCRPPA00;9000006;-25,281564;-57,632547;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+Riohacha;NGR;RCNGRI00;5000012;11,55133;-72,90891;1529;9999;;Principal;Principal;
+Pamplona;NGR;RCNGSFPP;5000016;7,3757;-72,6488;1776;9999;Existió en 1793 (Fuente:Estado_1794).;Subalterna;Subalterna;Santa Fe de Bogota
+Medellín;NGR;RCNGANME;5000019;6,25364;-75,56349;1777;9999;;Subalterna;Subalterna;Antioquia
+Remedios;NGR;RCNGRE00;5000020;7,02821;-74,69258;1601;9999;;Principal;Principal;
+Rionegro;NGR;RCNGANRN;5000021;6,149179;-75,378524;1777;9999;;Subalterna;Subalterna;Antioquia
+Tucumán;RPL;RCRPTU00;9000004;-26,83025;-65,20424;1111;1111;Morales Padrón: siglo XVI y XVII;Caja real;Principal;
+Zaragoza;NGR;RCNGMOZA;5000023;7,490218;-74,867443;1776;9999;Existió en 1793 (Fuente:Estado_1794).;Subalterna;Subalterna;Mompox
+Mompox;NGR;RCNGMO00;5000024;9,24202;-74,42493;1619;9999;;Principal;Principal;
+Florida;SDO;RCSDFL00;3000007;;;1565;1757;;Caja real;Principal;
+Jamaica;SDO;RCSDJA00;3001002;17,99546;-76,951401;1111;1111;Morales Padrón: siglo XVI;Caja real;Principal;
+La Habana;SDO;RCSDLH00;3000004;;;1559;1637;;Caja real;Principal;
+Simití;NGR;RCNGMOSI;5000025;7,955563;-73,944778;1774;9999;;Subalterna;Subalterna;Mompox
+Nueva Orleans;SDO;RCSDNO00;3000006;30,420839;-87,217239;1111;1111;;Caja real;Principal;
+Pensacola;SDO;RCSDPE00;3000023;29,953699;-90,063749;1111;1111;;Caja real;Principal;
+Honda;NGR;RCNGHO00;5000029;5,20225;-74,73751;1694;9999;;Principal;Principal;
+La Palma;NGR;RCNGHOLP;5000031;5,358938;-74,39092;1793;9999;;Subalterna;Subalterna;Honda
+Girón;NGR;RCNGSFGI;5000036;7,073233;-73,16892;1739;9999;;Subalterna;Subalterna;Santa Fe de Bogota
+Ocaña;NGR;RCNGOC00;5000039;8,23532;-73,35395;1754;9999;;Principal;Principal;
+Valledupar;NGR;RCNGSMVA;5000041;10,47744;-73,24501;1738;9999;;Subalterna;Subalterna;Santa Marta
+Cáceres;NGR;RCNGMOCA;5000046;7,581;-75,34815;1777;9999;Existió en 1793 (Fuente:Estado_1794).;Subalterna;Subalterna;Mompox
+Pántanos;NGR;RCNGMOPA;5000052;8,541624;-74,628417;1775;9999;;Subalterna;Subalterna;Mompox
+Trinidad de Cuba;SDO;RCSDTR00;3000010;21,800643;-79,984891;1111;1111;Morales Padrón: sin fechas.;Caja real;Principal;
+Barquisimeto;VEN;RCVEBQ00;4000014;;;1671;1701;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Caracas;VEN;RCVECA00;4000001;;;1529;1776;;Caja real;Principal;
+Carora;VEN;RCVECR00;4000016;;;1674;1696;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Coro;VEN;RCVECO00;4000002;;;1672;1701;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Novitá;NGR;RCNGNO00;5000056;4,95468;-76,60592;1725;9999;;Principal;Principal;
+Guanare;VEN;RCVEGN00;4000018;;;1672;1689;;Caja real;Principal;
+Cancán;NGR;RCNGRECA;5000095;6,90776;-75,07335;1793;9999;;Subalterna;Subalterna;Remedios
+isla Trinidad;VEN;RCVEIT00;4000004;;;1660;1796;;Caja real;Principal;
+La Guaira;VEN;RCVELG00;4000010;;;1675;1744;;Caja real;Principal;
+La Guayana;VEN;RCVEGY00;4000009;8,127774;-63,549064;1624;1111;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Yolombo;NGR;RCNGREYO;5000096;6,598119;-75,010809;1761;9999;;Subalterna;Subalterna;Remedios
+Nirgua;VEN;RCVENI00;4000019;;;1675;1701;;Caja real;Principal;
+Orinoco;VEN;RCVEOR00;4000009;;;1754;1777;;Caja real;Principal;
+San Sebastián de los Reyes;VEN;RCVESS00;4000023;;;1673;1696;;Caja real;Principal;
+Trujillo;VEN;RCVETR00;4000463;9,36541;-70,43577;1111;1111;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Tucuyo;VEN;RCVETU00;4000003;;;1671;1700;;Caja real;Principal;
+Valencia;VEN;RCVEVA00;4000024;;;1672;1702;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Cáceres;NGR;RCNGMOCA;5000046;;;1605;1679;;Caja real;Principal;
+Loba;NGR;RCNGMOLO;5000121;8,938093;-74,038807;1775;9999;;Subalterna;Subalterna;Mompox
+El Retiro;NGR;RCNGMORE;5000142;9,168745;-74,73505;1776;9999;;Subalterna;Subalterna;Mompox
+Ayapel;NGR;RCNGMOAY;5000155;8,31304;-75,1457;1778;9999;;Subalterna;Subalterna;Mompox
+Bodegas de Honda;NGR;RCNGHOBH;5000218;6,19596;-74,59165;1793;9999;;Subalterna;Subalterna;Honda
+Guamoco;NGR;RCNGMOGU;5000578;7,7509;-74,4415;1775;9999;Existió en 1793 (Fuente:Estado_1794).;Subalterna;Subalterna;Mompox
+Quito;QUI;TCQUQU00;5600001;-0,220169;-78,512091;1776;9999;;Tribunal de cuentas;Tribunal;
+Cuenca;QUI;RCQUCU00;5600002;-2,897524;-79,004424;1722;9999;Morales Padrón:  siglo XVI!;Caja real;Principal;
+Guayaquil;QUI;RCQUGU00;5600003;-2,14967;-79,864157;1600;9999;;Caja real;Principal;
+Jaén;QUI;RCQUJA00;5600004;-5,709412;-78,807482;1762;9999;;Caja real;Principal;
+Popayán;QUI;RCQUPO00;5600005;2,441852;-76,606062;1551;9999;;Principal;Principal;
+Buga;NGR;RCNGBU00;5600032;3,886797;-76,283842;1793;9999;;Subalterna;Subalterna;Cartago
+Santa Fe de Bogota;NGR;RCNGSF00;5000001;;;1570;1604;;Principal;Principal;
+Calí;NGR;RCNGCGCA;5600033;3,451442;-76,53233;1778;9999;;Subalterna;Subalterna;Cartago
+Anserma;NGR;RCNGCAAN;5600036;5,231158;-75,786104;1659;9999;;Subalterna;Subalterna;Cartago
+Cartago;NGR;RCNGCG00;5600037;4,812943;-75,704027;1606;9999;;Principal;Principal;
+Toro;NGR;RCNGCGTO;5600040;4,608947;-76,078133;1776;9999;;Subalterna;Subalterna;Cartago
+Barbacoas;QUI;RCQUPOBA;5600050;1,671745;-78,137512;1752;9999;;Subalterna;Subalterna;Popayán
+Iscuandé;QUI;RCQUPOIS;5600052;2,450062;-77,980957;1751;9999;;Subalterna;Subalterna;Popayán
+Tumaco;QUI;RCQUPOTU;5600070;1,808152;-78,76545;1793;9999;Existió en 1793 (Fuente:Estado_1794).;Subalterna;Subalterna;Popayán
+Vega de Supía;NGR;RCNGCGVS;5600169;5,455822;-75,650088;1774;9999;;Subalterna;Subalterna;Cartago
+Raposo;QUI;RCQUPORA;5600207;3,816816;-77,002898;1793;9999;Existió en 1793 (Fuente:Estado_1794).;Subalterna;Subalterna;Popayán
+Micay;QUI;RCQUPOMI;5600730;2,844329;-77,248604;1793;9999;Existió en 1793 (Fuente:Estado_1794).;Subalterna;Subalterna;Popayán
+Lima;PER;TCPELI00;6000001;-12,046653;-77,029981;1605;9999;;Tribunal de cuentas;Tribunal;
+Cuzco;PER;RCPECU00;6000002;-13,516718;-71,97888;1532;9999;;Caja real;Principal;
+Trujillo;PER;RCPETR00;6000003;-8,111702;-79,028761;1601;9999;;Caja real;Principal;
+Huamanga;PER;RCPEHU00;6000006;-13,15921;-74,225082;1764;9999;;Caja real;Principal;
+Arequipa;PER;RCPEAR00;6000007;-16,398223;-71,536727;1599;9999;;Caja real;Principal;
+Arica;PER;RCPEAR00;6000021;-18,478018;-70,320716;1642;9999;Suprimida en ocasiones?;Caja real;Principal;
+Vico y Pasco;PER;CRPEPA00;6001177;-10,670532;-76,253517;1670;9999;Morales Padrón: 1722, pero hay cuentas anteriores;Caja real;Principal;
+Santiago de Chile;CHL;RCCHSA00;7000001;-33,43756;-70,65006;1567;9999;;Caja real;Principal;
+Concepción;CHL;RCCHCO00;7000002;-36,738907;-72,993604;1708;9999;;Caja real;Principal;
+Valdivia;CHL;RCCCVA00;7000005;-39,815128;-73,242889;1767;9999;;Caja real;Principal;
+Chiloé;CHL;RCCHCH00;7000007;-41,86435;-73,82074;1782;9999;;Caja real;Principal;
+Puno;CHA;RCCCCH00;8000002;-15,84057;-70,027886;1803;9999;;Caja real;Principal;
+Cochabamba;CHA;RCCCCB00;8000004;-17,393542;-66,157014;1773;9999;;Caja real;Principal;
+La Paz;CHA;RCCCLP00;8000005;-16,496255;-68,134106;1601;9999;;Caja real;Principal;
+Potosí;CHA;RCCCPO00;8000006;-19,589281;-65,753511;1549;9999;;Caja real;Principal;
+Oruro;CHA;RCCCOR00;8000010;-17,969466;-67,114364;1606;9999;Morales Padrón: 1609;Caja real;Principal;
+Buenos Aires;RPL;RCRPBA00;9000001;-34,6079;-58,373221;1768;9999;;Tribunal de cuentas;Tribunal;
+Córdoba;RPL;RCRPCO00;9000002;-31,4213;-64,18855;1783;9999;;Caja real;Principal;
+Salta;RPL;RCRPSA00;9000003;-24,78928;-65,41058;1783;9999;;Caja real;Principal;
+Tucumán;RPL;RCRPTU00;9000004;-26,83025;-65,20424;1760;9999;;Caja real;Principal;
+Paraguay;RPL;RCRPPA00;9000006;-25,281564;-57,632547;1772;9999;;Caja real;Principal;
+Mendoza;RPL;RCRPME00;9000013;-32,889905;-68,841502;1778;9999;;Caja real;Principal;
+Córdoba;RPL;RCRPCO00;9000002;;;1760;1782;;Subalterna;Subalterna;Jujuy
+Salta;RPL;RCRPSA00;9000003;;;1760;1782;;Subalterna;Subalterna;Jujuy
+La Rioja;RPL;RCRPLR00;9000014;-29,415675;-66,855908;1760;9999;;Caja real;Principal;
+San Juan;RPL;RCRPSJ00;9000015;;;1779;9999;;Caja real;Principal;
+Santiago Estero;RPL;RCRPES00;9000017;-25,823055;-65,914767;1760;9999;;Caja real;Principal;
+Catamarca;RPL;RCRPCA00;9000018;-27,649596;-67,026362;1760;9999;;Caja real;Principal;
+Corrientes;RPL;RCRPCR00;9000022;-27,472034;-58,832866;1771;9999;;Caja real;Principal;
+Santa Fe;RPL;RCRPSF00;9000023;-31,114534;-60,581756;1771;9999;;Caja real;Principal;
+Montevideo;RPL;RCRPMV00;9000024;-34,907247;-56,204424;1770;9999;;Caja real;Principal;
+Maldonado;RPL;RCRPMA00;9000033;-34,908716;-54,958272;1786;9999;;Caja real;Principal;
